@@ -1,4 +1,4 @@
-# Project 4 - Pandas Reference
+# Project 4 - Pandas Reference Guide
 
 ## General Notes
 * If you're using CoLab you can run `%load_ext google.colab.data_table` to view DataFrames in a more interactive fashion.  And you can revert back the regular pandas view by running `%unload_ext google.colab.data_table` \
